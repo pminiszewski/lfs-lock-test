@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.15",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "repoa",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
