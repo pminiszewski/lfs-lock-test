@@ -3,3 +3,8 @@ repoa/Intermediate/
 repoa/Binaries/
 repoa/repoa.VC.VC.opendb
 repoa/repoa.VC.db
+repoa/repoa.sln
+repoa/Plugins/GitUtils/Intermediate/
+repoa/DerivedDataCache/
+repoa/Plugins/GitUtils/Binaries/
+repoa/.vs/config/applicationhost.config
